@@ -1,0 +1,14 @@
+numpy
+opencv-python
+pillow
+mss
+pyautogui
+torch
+torchvision
+torchaudio
+ultralytics
+transformers
+sentence-transformers
+networkx
+pydantic
+easyocr
