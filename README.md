@@ -61,7 +61,7 @@ graph TD
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1.  **Clone the Repository**:
     ```bash
