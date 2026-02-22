@@ -117,7 +117,7 @@ We welcome contributions to improve the perception models and grounding logic.
 
 ---
 
-## 📜 License
+## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
