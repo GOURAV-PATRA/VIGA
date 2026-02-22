@@ -1,10 +1,10 @@
-# VIGA: Vision-Grounded Interaction Agent 🚀
+# VIGA: Vision-Grounded Interaction Agent
 
 **VIGA** is a state-of-the-art, **locator-free UI automation system** that perceives and interacts with interfaces purely through visual and semantic understanding. By moving away from brittle CSS/XPath selectors, VIGA enables robust automation that survives UI redesigns and operates seamlessly across different platforms.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 | Feature | Description | Technology |
 | :--- | :--- | :--- |
@@ -16,7 +16,7 @@
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 VIGA treats every UI as an interactive scene. The execution pipeline is divided into three major stages: **Perception**, **Reasoning**, and **Execution**.
 
@@ -81,7 +81,7 @@ graph TD
 
 ---
 
-## 🚀 Usage
+## Usage
 
 Run the agent by providing a natural language command:
 
@@ -95,7 +95,7 @@ python main.py "click the search icon in the top toolbar"
 
 ---
 
-## 🔍 Module Documentation
+## Module Documentation
 
 | Module | File Path | Responsibility |
 | :--- | :--- | :--- |
@@ -106,7 +106,7 @@ python main.py "click the search icon in the top toolbar"
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions to improve the perception models and grounding logic.
 1. Fork the Project.
